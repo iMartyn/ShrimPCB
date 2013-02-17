@@ -3,6 +3,8 @@ ShrimPCB
 
 A PCB for an arduino-clone based on the Shrimp project - http://shrimping.it/
 
+UNTESTED AS YET - still fixing bugs in layout.
+
 This is a great first project if you're thinking about trying your hand at DIY PCB manufacture.  Single sided board, through-hole components.
 
 Ensure that for etching when you are looking at the copper, the LEDs are at the bottom and the ISP header (6pin) is on the Left.  See http://leedshackspace.org.uk/2013/02/14/diy-circuit-boards-and-what-to-do-when-it-all-goes-wrong/ for what happens if it's on the right!
