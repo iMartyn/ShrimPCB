@@ -3,7 +3,7 @@ ShrimPCB
 
 A PCB for an arduino-clone based on the Shrimp project - http://shrimping.it/
 
-UNTESTED AS YET - still fixing bugs in layout.
+UNTESTED AS YET - should work but not physically printed any new one.
 
 This is a great first project if you're thinking about trying your hand at DIY PCB manufacture.  Single sided board, through-hole components.
 
